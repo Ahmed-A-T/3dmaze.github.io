@@ -17,9 +17,9 @@
 1. Clone the repository from [GitHub Repo URL].
 2. Navigate to the project directory.
 3. Compile the game using your preferred C compiler (e.g., gcc).
-'''
+```
 gcc -o TheMaze main.c -lSDL2
-'''
+```
 4. Run the executable.
 ```
 ./TheMaze
